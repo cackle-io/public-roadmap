@@ -7,14 +7,18 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+### The Problem
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+If the proposed enchancement is due to a problem, please explain the issue.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+### Proposed Enhancement
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+Provide a detailed explanation of the proposed enchancement.
+
+### Possible Alternatives
+
+Detail any possible alternatives to the proposed enchancement.
+
+### Additional context
+
+Provide any additional information.
