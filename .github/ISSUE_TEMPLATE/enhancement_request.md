@@ -2,7 +2,7 @@
 name: Enchancement Request
 about: Suggest a modification or enhancement to an existing feature
 title: ''
-labels: ''
+labels: 'enhancement'
 assignees: ''
 
 ---
