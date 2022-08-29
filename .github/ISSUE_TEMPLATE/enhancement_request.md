@@ -1,7 +1,7 @@
 ---
 name: Enchancement Request
 about: Suggest a modification or enhancement to an existing feature
-title: 'ENCHANCEMENT: '
+title: 'ENHANCEMENT: {{ENTER-A-TITLE-FOR-THE-ENHANCEMENT-REQUEST}}'
 labels: 'enhancement'
 assignees: ''
 
